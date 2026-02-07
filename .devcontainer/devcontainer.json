@@ -17,9 +17,10 @@
     },
 
     // Use the relative path to find the file
-    //"postCreateCommand": "pip3 install cowsay",
+    "postCreateCommand": "pip3 install cowsay",
 
     // lo vamos a dejar asi
    "remoteUser": "vscode"
+
 }
 
