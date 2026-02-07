@@ -1,0 +1,12 @@
+# 2025-02-06 javi
+# Automatic  python Libraries to load when docker cointainer is rebuild
+# inside devcontainer.json (image fixed by container build, 
+# loaded using >> pip install [this list below]
+# you can add the libraies you want to import for your project
+
+
+requests
+mypy
+Pillow
+pytest
+
